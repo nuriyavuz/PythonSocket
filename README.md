@@ -1,3 +1,3 @@
 
-`Basit bir trojan,socket programlama mantığı anlatılarak 5 aşamada geliştirilecektir`
+`Basit bir trojan,socket programlama mantığı anlatılarak 5 aşamada geliştirilecektir`</br>
 https://cosmosofcyberspace.github.io/
